@@ -1,6 +1,6 @@
 ## Oi Eu sou o Jeremias Dembi Software Enginner  !
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="300cm" src="https://dembi-star.vercel.app/api?username=dembijeremias&count_private=true&show_icons=true&theme=radical">
+  <img align="center" alt="Rafa-Js" height="300cm" src="https://dembi-star.vercel.app/api?username=dembijeremias&count_private=true&show_icons=true&theme=jeremias_dev">
   
 </div>
 <div> 
