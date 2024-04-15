@@ -36,4 +36,3 @@
 - [Sobre Hellow World!](https://www.linkedin.com/posts/jeremias-dembi-%F0%9F%87%A6%F0%9F%87%B4%F0%9F%87%A7%F0%9F%87%B7-089478215_good-morning-everyone-when-you-do-your-activity-7184808648567635968-E3Gc?utm_source=share&utm_medium=member_desktop)
 
 
-![Snake animation](https://github.com/dembijeremias/dembijeremias/blob/output/github-contribution-grid-snake.svg)
