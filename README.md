@@ -28,7 +28,7 @@
  <img align="left" alt="android" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" style="padding-right:10px;" />
  <img align="left" alt="SWIFT" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130135.png" style="padding-right:10px;" />
 
-
+<br><br>
 
 ### 📺 Ultimas Publicações no Linkedin. Latest Post On Linkedin
 
