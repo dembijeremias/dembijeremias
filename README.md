@@ -1,9 +1,8 @@
 ## Jeremias Dembi || Software Enginner  !
 <p>Oi, eu sou o Jeremias Dembi, um Software Engineer apaixonado por código limpo e soluções criativas. Sempre explorando novas tecnologias e aprendendo algo novo todos os dias. Vamos codar juntos! 💻</p>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="300cm" src="https://dembi-star.vercel.app/api?username=dembijeremias&count_private=true&show_icons=true&theme=jeremias_dev">
 </div>
-<br />
 
 ### Connect with me:
 
@@ -13,8 +12,6 @@
   <a href = "mailto:dembijeremias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC9w266_zua21pvRoVMiRqmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
-<br />
 
 ### Linguagens e Ferramentas. Languages and Tools:
 
@@ -31,12 +28,9 @@
  <img align="left" alt="android" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" style="padding-right:10px;" />
  <img align="left" alt="SWIFT" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130135.png" style="padding-right:10px;" />
 
-<br /><br />
-
 
 
 ### 📺 Ultimas Publicações no Linkedin. Latest Post On Linkedin
 
 <!-- Linkedin:START -->
 - [Sobre Hellow World!](https://www.linkedin.com/posts/jeremias-dembi-%F0%9F%87%A6%F0%9F%87%B4%F0%9F%87%A7%F0%9F%87%B7-089478215_good-morning-everyone-when-you-do-your-activity-7184808648567635968-E3Gc?utm_source=share&utm_medium=member_desktop)
-<br />
